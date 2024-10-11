@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @Medi Mahalakshmi 
 - 👀 I’m interested in software development Skills
 - 🌱 I’m currently learning java Full Stack Developer
-- 💞️ I’m looking to collaborate on Software industry 
-- 📫 How to reach me ..
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on Software industry
 
 <!---
 Medimaha/Medimaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
